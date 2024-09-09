@@ -1,4 +1,4 @@
-![Logo](banner.jpg)
+![Logo](workout.png)
 # tkafolapp
 Application Consulting Services by flutter platform and php laravel 
 Characteristics of the application in a nutshell:
