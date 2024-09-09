@@ -1,5 +1,5 @@
 ![Logo](workout.png)
-# tkafolapp
+# :sparkles::sparkles: tkafolapp
 Application Consulting Services by flutter platform and php laravel 
 Characteristics of the application in a nutshell:
 - Registrations, logins and check-outs as a user or expert
